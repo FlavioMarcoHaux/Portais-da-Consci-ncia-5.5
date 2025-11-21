@@ -1,0 +1,8 @@
+{
+  "name": "5.5 Portais da Consciência atualizado GITHUB",
+  "description": "Tudo pronto",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
